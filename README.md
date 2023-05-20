@@ -5,11 +5,10 @@
 <a href="https://open.spotify.com/user/9tmyd4phnj1ca04ojccpnndu4" target"blank_"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://medium.com/@iambuvak" target"blank_"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="https://twitter.com/iambuvak" target"blank_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href = "mailto:iambuvak@gmail.com"> <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=iambuvak&label=Ziyaretçi%20Sayısı&color=37F613" alt="bvak" />
+<a href = "mailto:burakyabgu@gmail.com"> <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<img src="https://komarev.com/ghpvc/?username=iambuvak&label=Ziyaretçi%20Sayısı&color=37F613" alt="buvak" />
   
 </p>
-  
 
 
 ## Langauges I know:
@@ -23,10 +22,18 @@
 <code><img height="30" src="https://img.shields.io/badge/typescript%20-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"></code>
 
 ## Frameworks and libraries I use:
-<code><img height="30" src="https://camo.githubusercontent.com/dfc69d704694f22168bea3d84584663777fa5301dcad5bbcb5459b336da8d554/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"></code>
 <code><img height="30" src="https://img.shields.io/badge/react%20-2B2C2E.svg?&style=for-the-badge&logo=react&logoColor=6FD6F9"></code>
-<code><img height="30" src="https://img.shields.io/badge/Bootstrap%20-7D11F8.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"></code>
+<code><img height="30" src="https://camo.githubusercontent.com/dfc69d704694f22168bea3d84584663777fa5301dcad5bbcb5459b336da8d554/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"></code>
+<code><img height="30" src="https://img.shields.io/badge/flask%20-FFFFFF.svg?&style=for-the-badge&logo=flask&logoColor=black"></code>
+<code><img height="30" src="https://camo.githubusercontent.com/29360701c98ec05a25c12a62a66ce6bc053108344a29c61c533a5af765cffe09/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646a616e676f2532302d3039324532302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465"></code>
+<code><img height="30" src="https://camo.githubusercontent.com/9767503984b5712937ac4cc89114acb81d9314b2eae1c5eff09fcdf84f71752a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702532302d3744313146382e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/c839570bc71901106b11b8411d9277a6a8356a9431e4a16d6c26db82caab7d62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"></code>
+<code><img height="30" src="https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad14f970522f219daaeb6d1c81060e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"></code>
+
+## Hybrid:
+<code><img height="30" src="https://img.shields.io/badge/react%20native-1C1C1C.svg?&style=for-the-badge&logo=react&logoColor=00DBFF"></code>
+<code><img height="30" src="https://img.shields.io/badge/electron-2F3243.svg?&style=for-the-badge&logo=electron&logoColor=A6E5F4"></code>
+
 
 
 ## Others:
@@ -35,10 +42,6 @@
 <code><img height="30" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/git%20-black.svg?&style=for-the-badge&logo=git&logoColor=orange"></code>
 
-## Design Tools I Use:
-<code><a href="#"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"></a></code>
-<code><a href="#"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/800px-Adobe_InDesign_CC_icon.svg.png"></a></code>
-<code><a href="#"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=iambuvak&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
