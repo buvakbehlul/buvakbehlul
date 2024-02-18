@@ -34,6 +34,9 @@
 <code><img height="30" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/git%20-black.svg?&style=for-the-badge&logo=git&logoColor=orange"></code>
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=burakbehlull&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
