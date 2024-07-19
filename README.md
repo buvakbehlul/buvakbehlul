@@ -6,6 +6,8 @@
 <code><img height="30" src="https://img.shields.io/badge/scss-c69.svg?&style=for-the-badge&logo=sass&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"></code>
 <code><img height="30" src="https://img.shields.io/badge/typescript%20-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"></code>
+<code><img height="30" src="https://camo.githubusercontent.com/94255ec6b3c759a685d09b160102f6780416030ba75119a1d9d05cd1d2345e5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"></code>
+<code><img height="30" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/55e4079e69ec5d8246620ecff24ed093877ab0f9011e71d8dec0a2c460c886ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"></code>
 
 ## Frameworks and libraries I use:
@@ -23,6 +25,7 @@
 <code><img height="30" src="https://camo.githubusercontent.com/c1c08eb7625abe1a813e5ad05a94891aa127a37e0ce126b59ecda28233effdac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/7e95531437f8c91626ae46cb69240160dfde5c39c1119c550cd174ba8a19e712/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"></code>
 <code><img height="30" src="https://img.shields.io/badge/firebase-orange.svg?&style=for-the-badge&logo=firebase&logoColor=white"></code>
+<code><img height="30" src="https://camo.githubusercontent.com/34832d20f2587ef5fae771070dc9a55bac4999625ca9fdd4a0ceb44ab17d3ed1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d2532333037343035652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/a963b142be25ca1e2df9adddf3ebe21a5accb30a6d67763f94bd591eeaeeb387/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656469732d2532334444303033312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265646973266c6f676f436f6c6f723d7768697465"></code>
 
 ## Hybrid:
